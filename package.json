@@ -1,0 +1,23 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shunk-py/zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/shunk-py/zenn/issues"
+  },
+  "homepage": "https://github.com/shunk-py/zenn#readme",
+  "devDependencies": {
+    "zenn-cli": "^0.1.103"
+  }
+}
